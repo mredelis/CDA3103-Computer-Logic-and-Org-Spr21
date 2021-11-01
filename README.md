@@ -1,6 +1,6 @@
 # CDA3103 Computer Logic and Organization Spr21
 
-The files spimcore.c and project.c should be compiled together. Here is an example of how that may be done inanUNIX environment. 
+The files spimcore.c and project.c should be compiled together. Here is an example of how that may be done in an UNIX environment. 
 
 First compile:$ gcc -o spimcore spimcore.c project.c
 
