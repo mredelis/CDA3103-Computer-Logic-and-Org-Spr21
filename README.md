@@ -4,7 +4,7 @@ The files spimcore.c and project.c should be compiled together. Here is an examp
 
 First compile:$ gcc -o spimcore spimcore.c project.c
 
-After compilation, to begin the simulation, you can type the following command in UNIX:$ ./spimcore <filename>.asc The command prompt cmd: should appear. 
+After compilation, to begin the simulation, you can type the following command in UNIX:$ ./spimcore filename.asc The command prompt cmd: should appear. 
 
 The simulation works with the following commands (both lowercase and uppercase letter are accepted):
 
