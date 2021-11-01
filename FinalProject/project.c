@@ -2,6 +2,8 @@
 | CDA3103 – Computer Logic and Organization
 | This program was completed by: Edelis Molina
 | Write the core part of a mini processor simulator called MySPIM
+| To compile: gcc -o spimcore spimcore.c project.c 
+| To run: ./spimcore filename.asc
 |=============================================================================*/
 #include "spimcore.h"
 
