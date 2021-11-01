@@ -9,10 +9,17 @@ After compilation, to begin the simulation, you can type the following command i
 The simulation works with the following commands (both lowercase and uppercase letter are accepted):
 
 r “Register” - Display register contents
+
 m “Memory” - Display memory contents
+
 s “Step” – Attempt to run the instruction located at the current PC
+  
 c “Continue” – Attempt to run all instructions, beginning with PC
+  
 h “Halt” – Check to see if the simulation has halted
+  
 p “Print” – Prints a copy of the input file
+  
 g “Controls” – Display the most recent control signals
+  
 x “Quit” – terminate the simulation
